@@ -1,0 +1,6 @@
+vpc_cidr_block    = "10.0.0.0/16"
+env_prefix        = "moreflix-dev"
+subnet_cidr_block = "10.0.15.0/24"
+avail_zone        = "us-west-2a"
+region            = "us-west-2"
+instance_type     = "t3.small"
